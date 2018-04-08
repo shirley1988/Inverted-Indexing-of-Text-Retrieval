@@ -1,1 +1,2 @@
-# ReverseIndex
+# Inverted Indexing of Text Retrieval
+
